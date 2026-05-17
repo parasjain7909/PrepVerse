@@ -1,6 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
-import { useAuth } from "../hooks/useauth";
+import { useAuth } from "../hooks/useAuth.js";
 
 export default function Register() {
   const navigate = useNavigate();

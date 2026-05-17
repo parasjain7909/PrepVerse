@@ -13,10 +13,10 @@ import percentagePYQ from "./quantitative/percentage/percentagepyq.js";
 
 /* PROFIT LOSS */
 
-import profitLossEasy from "./quantitative/profitloss/profitLossEasy.js";
-import profitLossMedium from "./quantitative/profitloss/profitLossMedium.js";
-import profitLossHard from "./quantitative/profitloss/profitLossHard.js";
-import profitLossPYQ from "./quantitative/profitloss/profitLossPYQ.js";
+import profitLossEasy from "./quantitative/profitloss/profitlossEasy.js";
+import profitLossMedium from "./quantitative/profitloss/profitlossMedium.js";
+import profitLossHard from "./quantitative/profitloss/profitlossHard.js";
+import profitLossPYQ from "./quantitative/profitloss/profitlossPYQ.js";
 
 /* TIME WORK */
 
