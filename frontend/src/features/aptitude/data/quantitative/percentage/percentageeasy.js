@@ -1,0 +1,223 @@
+const percentageEasy = [
+  {
+    id: 1,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "TCS NQT",
+    question: "What is 25% of 480?",
+    options: ["100", "110", "120", "130"],
+    answer: "120",
+    explanation: "25% of 480 = 120",
+  },
+
+  {
+    id: 2,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Infosys",
+    question: "50% of 900 is:",
+    options: ["350", "400", "450", "500"],
+    answer: "450",
+    explanation: "50% means half of 900.",
+  },
+
+  {
+    id: 3,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Wipro",
+    question: "10% of 1500 is:",
+    options: ["100", "120", "150", "180"],
+    answer: "150",
+    explanation: "10% of 1500 = 150",
+  },
+
+  {
+    id: 4,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Accenture",
+    question: "20% of 250 is:",
+    options: ["25", "40", "50", "60"],
+    answer: "50",
+    explanation: "20% × 250 = 50",
+  },
+
+  {
+    id: 5,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Capgemini",
+    question: "75% of 200 is:",
+    options: ["100", "120", "150", "180"],
+    answer: "150",
+    explanation: "75% of 200 = 150",
+  },
+
+  {
+    id: 6,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "IBM",
+    question: "5% of 600 is:",
+    options: ["20", "25", "30", "35"],
+    answer: "30",
+    explanation: "5% of 600 = 30",
+  },
+
+  {
+    id: 7,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "TCS NQT",
+    question: "40% of 500 is:",
+    options: ["150", "180", "200", "220"],
+    answer: "200",
+    explanation: "40% of 500 = 200",
+  },
+
+  {
+    id: 8,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Infosys",
+    question: "15% of 200 is:",
+    options: ["20", "25", "30", "35"],
+    answer: "30",
+    explanation: "15% × 200 = 30",
+  },
+
+  {
+    id: 9,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Wipro",
+    question: "60% of 300 is:",
+    options: ["120", "150", "180", "200"],
+    answer: "180",
+    explanation: "60% × 300 = 180",
+  },
+
+  {
+    id: 10,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Accenture",
+    question: "30% of 700 is:",
+    options: ["180", "200", "210", "240"],
+    answer: "210",
+    explanation: "30% of 700 = 210",
+  },
+
+  {
+    id: 11,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Capgemini",
+    question: "80% of 50 is:",
+    options: ["35", "40", "45", "50"],
+    answer: "40",
+    explanation: "80% × 50 = 40",
+  },
+
+  {
+    id: 12,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "IBM",
+    question: "90% of 100 is:",
+    options: ["80", "85", "90", "95"],
+    answer: "90",
+    explanation: "90% × 100 = 90",
+  },
+
+  {
+    id: 13,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "TCS NQT",
+    question: "35% of 400 is:",
+    options: ["120", "130", "140", "150"],
+    answer: "140",
+    explanation: "35% × 400 = 140",
+  },
+
+  {
+    id: 14,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Infosys",
+    question: "45% of 200 is:",
+    options: ["70", "80", "90", "100"],
+    answer: "90",
+    explanation: "45% × 200 = 90",
+  },
+
+  {
+    id: 15,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Wipro",
+    question: "12% of 500 is:",
+    options: ["50", "55", "60", "65"],
+    answer: "60",
+    explanation: "12% × 500 = 60",
+  },
+
+  {
+    id: 16,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Accenture",
+    question: "8% of 250 is:",
+    options: ["15", "20", "25", "30"],
+    answer: "20",
+    explanation: "8% × 250 = 20",
+  },
+
+  {
+    id: 17,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Capgemini",
+    question: "55% of 100 is:",
+    options: ["45", "50", "55", "60"],
+    answer: "55",
+    explanation: "55% × 100 = 55",
+  },
+
+  {
+    id: 18,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "IBM",
+    question: "95% of 200 is:",
+    options: ["180", "185", "190", "195"],
+    answer: "190",
+    explanation: "95% × 200 = 190",
+  },
+
+  {
+    id: 19,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "TCS NQT",
+    question: "22% of 500 is:",
+    options: ["100", "110", "120", "130"],
+    answer: "110",
+    explanation: "22% × 500 = 110",
+  },
+
+  {
+    id: 20,
+    topic: "Percentage",
+    difficulty: "easy",
+    company: "Infosys",
+    question: "18% of 300 is:",
+    options: ["48", "50", "54", "60"],
+    answer: "54",
+    explanation: "18% × 300 = 54",
+  },
+];
+
+export default percentageEasy;
