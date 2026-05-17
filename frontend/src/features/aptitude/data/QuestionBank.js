@@ -37,7 +37,7 @@ import simpleInterestPYQ from "./quantitative/simpleintrest/simpleIntrestPYQ.js"
 import compoundInterestEasy from "./quantitative/compoundInterest/compoundinterestEasy.js";
 import compoundInterestMedium from "./quantitative/compoundInterest/compoundinterestMedium.js";
 import compoundInterestHard from "./quantitative/compoundInterest/compoundinterestHard.js";
-import compoundInterestPYQ from "./quantitative/compoundInterest/compoundinterestPYQ.JS";
+import compoundInterestPYQ from "./quantitative/compoundInterest/compoundinterestPYQ.js";
 
 /* RATIO PROPORTION */
 
