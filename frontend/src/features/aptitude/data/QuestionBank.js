@@ -34,10 +34,10 @@ import simpleInterestPYQ from "./quantitative/simpleintrest/simpleIntrestPYQ.js"
 
 /* COMPOUND INTEREST */
 
-import compoundInterestEasy from "./quantitative/compoundinterest/compoundInterestEasy.js";
-import compoundInterestMedium from "./quantitative/compoundinterest/compoundInterestMedium.js";
-import compoundInterestHard from "./quantitative/compoundinterest/compoundInterestHard.js";
-import compoundInterestPYQ from "./quantitative/compoundinterest/compoundInterestPYQ.js";
+import compoundInterestEasy from "./quantitative/compoundInterest/compoundinterestEasy.js";
+import compoundInterestMedium from "./quantitative/compoundInterest/compoundinterestMedium.js";
+import compoundInterestHard from "./quantitative/compoundInterest/compoundinterestHard.js";
+import compoundInterestPYQ from "./quantitative/compoundInterest/compoundinterestPYQ.JS";
 
 /* RATIO PROPORTION */
 
